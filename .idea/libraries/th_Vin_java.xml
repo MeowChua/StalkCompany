@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="thư Viện java">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Documents/thư Viện java" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Documents/thư Viện java" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../Documents/thư Viện java" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../Documents/thư Viện java" recursive="false" type="SOURCES" />
+  </library>
+</component>
